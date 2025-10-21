@@ -12,3 +12,4 @@ plugins {
 
 rootProject.name = 'concurrency-and-parallelism'
 include('level1')
+include('level2')
