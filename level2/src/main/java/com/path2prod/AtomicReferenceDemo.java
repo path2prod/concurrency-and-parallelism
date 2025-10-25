@@ -16,7 +16,7 @@ public class AtomicReferenceDemo {
 
     private class Task{
         private String taskName;
-        private AtomicReference<Boolean> processed = new AtomicReference(false);
+        private AtomicReference<Boolean> processed = new AtomicReference<>(false);
 
 
         public Task(String taskName) {

@@ -7,15 +7,15 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class Main {
     public static void main(String[] args) throws InterruptedException, ExecutionException{
-        // exercise1();
-        // exercise2();
-        // exercise3();
-        // exercise4();
-        // exercise5();
-        // exercise6();
-        // exercise7();
-        //exercise8();
-        //exercise9();
+        exercise1();
+        exercise2();
+        exercise3();
+        exercise4();
+        exercise5();
+        exercise6();
+        exercise7();
+        exercise8();
+        exercise9();
         exercise10();
     }
 
