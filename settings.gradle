@@ -14,3 +14,4 @@ rootProject.name = 'concurrency-and-parallelism'
 include('level1')
 include('level2')
 include('level3')
+include('level4')
